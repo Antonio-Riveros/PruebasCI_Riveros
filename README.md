@@ -25,7 +25,7 @@ Demostrar el funcionamiento de un flujo de integración continua básico, incluy
 
 **Autor:** Antonio Riveros
 
-**Profesora:** Rosalía Insaurralde
+**Profesora:** [Rosalía Insaurralde](https://https://github.com/rinsaurralde)
 
 **Materia:** Metodología de Sistemas II
 

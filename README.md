@@ -1,4 +1,3 @@
-
 # PruebaCI_Riveros
 
 Este repositorio forma parte de una práctica académica de la materia **Metodología de Sistemas II**, dictada por la **Prof. Rosalía Insaurralde** en la **UTN**.
@@ -24,7 +23,12 @@ Demostrar el funcionamiento de un flujo de integración continua básico, incluy
 
 ---
 
-✍️ **Autor:** Antonio Riveros👩‍🏫 **Profesora:** Rosalía Insaurralde📚 **Materia:** Metodología de Sistemas II🎓 **Institución:** UTN – Universidad Tecnológica Nacional
+**Autor:** Antonio Riveros
+
+**Profesora:** Rosalía Insaurralde
+
+**Materia:** Metodología de Sistemas II
+
+**Institución:** UTN – Universidad Tecnológica Nacional
 
 > ⚠️ Este repositorio tiene fines educativos y corresponde a una práctica de aula.
->
